@@ -135,7 +135,7 @@ We welcome contributions to improve detection logic, add new modules, or expand 
 ## Contributors
 
 - [SecureByTech](https://github.com/SecureByTech) – Creator & Maintainer  
-- [Hama U. Khan](https://github.com/HamzaKhan) – Module Developer  
+- [](https://github.com/HamzaKhan) – Module Developer  
 - [OpenAI](https://openai.com/) – Prompt Red Teaming Reference  
 - [Streamlit](https://streamlit.io/) – UI Framework
 
