@@ -141,15 +141,13 @@ We welcome contributions to improve detection logic, add new modules, or expand 
 
 Want to join? Submit a PR and add yourself to the list!
 
----
-
 ## License
 
-MIT License. See [`LICENSE`](LICENSE) for details.
+This project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).  
+See the [`LICENSE`](LICENSE) file for full details.
 
----
+
 
 ## Contact
 
 For questions, demos, or partnerships, reach out via GitHub Issues or Slack channel: `sentinelllm.slack.com`
-```
